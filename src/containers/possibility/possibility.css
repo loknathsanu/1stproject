@@ -1,0 +1,46 @@
+
+
+.gpt3__Possibility{
+    display: grid;
+    grid-template-columns: 60%  40%;
+}
+
+
+.gpt3__Possibility-content{
+    color:  #81AFDD;;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   gap: 40px;
+   padding-top: 20%;
+   
+   
+   
+}
+.pic{
+    width: 85%;
+    
+}
+.gragradient-text{
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 40px;
+        font-weight: 800;
+}
+.gpt3__Possibility-content p{
+    font-size: 18px;
+    font-weight: 200;
+   
+}
+.content1{
+    color: #71E5FF;
+}
+.content2{
+    color: #FF8A71;
+        
+}
+    
+
+

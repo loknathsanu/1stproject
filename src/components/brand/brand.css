@@ -1,0 +1,16 @@
+.gp3_brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20%;
+    
+}
+.gp3_brand div{
+  
+    max-width: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
